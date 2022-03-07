@@ -5,3 +5,4 @@ Practising Data Structures and Algorithms
 3 -> 3_arrays
 4 -> 4_hashTables
 5 -> 5_linkedLists
+6 -> 6_Stacks_Queues
