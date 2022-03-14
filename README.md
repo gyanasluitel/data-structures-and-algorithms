@@ -9,3 +9,4 @@
 7. 7_trees
 8. 8_graph
 9. 9_Algorithms_Recursion
+10. 10_Algorithms_Sorting
