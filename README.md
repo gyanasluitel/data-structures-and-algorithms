@@ -10,3 +10,4 @@
 8. 8_graph
 9. 9_Algorithms_Recursion
 10. 10_Algorithms_Sorting
+11. 11_Algorithms_Searching_DFS_BFS
